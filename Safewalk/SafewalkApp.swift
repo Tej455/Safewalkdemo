@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+alkfjalfjafljdadflj
 @main
 struct SafewalkApp: App {
     var body: some Scene {
